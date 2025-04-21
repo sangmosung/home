@@ -35,4 +35,8 @@ Artificial intelligence algorithm
 
 5. Jae-il Jung, Soryoung Jung, and **Sangmo Sung**. "DISTANCE CALIBRATION METHOD FOR UWB POSITIONING", KR102659273B1, Korean Intellectual Property Office, Registered in April 2024.
 
+6. Jae-il Jung, **Sangmo Sung**, Jongyeon Kim, Sangwook Yu, Soryung Jung, Junhyung Park, and Woosang Yu. "METHOD FOR CONTROLLING COMMON ENTRANCE DOOR AND ELEVATOR", KR102693386B1, Korean Intellectual Property Office, Registered in August 2024.
+
+7. Jae-il Jung, **Sangmo Sung**, Sangwook Yu, Soryung Jung, and Yoonsang Jo. "ACCESS CONTROL METHOD AND APPARATUS", KR102797002B1, Korean Intellectual Property Office, Registered in April 2025.
+
 [Privacy](https://sangmosung.github.io/home/privacy)
