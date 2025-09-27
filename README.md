@@ -1,8 +1,4 @@
-# Sangmo Sung
-
-Ubiquitous Networking (UN) Lab.
-
-Ph.D. Candidate in the Department of Electronics Convergence Engineering at Hanyang University
+# Sangmo Sung, Ph.D.
 
 smsung@hanyang.ac.kr
 
